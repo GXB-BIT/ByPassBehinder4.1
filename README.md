@@ -22,7 +22,8 @@ Behinder（冰蝎）是一款流行的WebShell管理工具，但由于其流量�
 
 命令行输入:java -jar ByPassBehinder4.1.jar 
 
-![image-20250725154850534](C:\Users\22019\AppData\Roaming\Typora\typora-user-images\image-20250725154850534.png)
+<img width="1200" height="626" alt="image-20250725154850534" src="https://github.com/user-attachments/assets/33b4afda-95b8-46c9-b52c-21ebb95950e3" />
+
 
 二开内容包括：
 
@@ -30,25 +31,31 @@ Behinder（冰蝎）是一款流行的WebShell管理工具，但由于其流量�
 
 2、新加入10种加密算法，自带算法php和aspx默认过火绒、360、df、沙箱。jsp的建议使用网上其他免杀后使用。
 
-![image-20250725155205154](C:\Users\22019\AppData\Roaming\Typora\typora-user-images\image-20250725155205154.png)
+<img width="998" height="827" alt="image-20250725155205154" src="https://github.com/user-attachments/assets/1d612643-2337-4822-81ee-dfe23c907a88" />
+
 
 
 
 点击生成服务器后，会在本地生成jsp、php、aspx木马
 
-![image-20250725155841120](C:\Users\22019\AppData\Roaming\Typora\typora-user-images\image-20250725155841120.png)
+<img width="1000" height="830" alt="image-20250725155841120" src="https://github.com/user-attachments/assets/4bc697e4-8783-4373-ab84-719bf0f9b6bd" />
 
-![image-20250725155440782](C:\Users\22019\AppData\Roaming\Typora\typora-user-images\image-20250725155440782.png)
+
+<img width="638" height="182" alt="image-20250725155440782" src="https://github.com/user-attachments/assets/394d24d4-0094-4843-866e-eaed38d3ec20" />
+
 
 连接时选择对应的加密算法即可成功连接
 
-![image-20250725155638222](C:\Users\22019\AppData\Roaming\Typora\typora-user-images\image-20250725155638222.png)
+<img width="629" height="428" alt="image-20250725155638222" src="https://github.com/user-attachments/assets/c376d88d-5fb3-4fb0-a1ca-d1e4822bf0be" />
 
-![image-20250725155804722](C:\Users\22019\AppData\Roaming\Typora\typora-user-images\image-20250725155804722.png)
+
+<img width="1297" height="828" alt="image-20250725155804722" src="https://github.com/user-attachments/assets/52bf179c-3485-4fd5-b82c-b148185d63bb" />
+
 
 自写加密算法流量特征
 
-![image-20250725161120676](C:\Users\22019\AppData\Roaming\Typora\typora-user-images\image-20250725161120676.png)
+<img width="1920" height="805" alt="image-20250725161120676" src="https://github.com/user-attachments/assets/91770473-b42a-4cca-844a-4f0c5e81de78" />
+
 
 ##### :trident:免杀测试
 
@@ -56,7 +63,8 @@ Behinder（冰蝎）是一款流行的WebShell管理工具，但由于其流量�
 
 **免杀**冰蝎rebeyond的php和aspx WebShell免杀效率如下:
 
-![image-20250725160024380](C:\Users\22019\AppData\Roaming\Typora\typora-user-images\image-20250725160024380.png)
+<img width="899" height="717" alt="image-20250725160024380" src="https://github.com/user-attachments/assets/adaa39c6-b3fe-4173-8c5b-f481bd1b9581" />
+
 
 **注：注意尊重原版开发人员知识产权，开源不易，原版地址https://github.com/rebeyond/Behinder**
 
