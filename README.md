@@ -1,5 +1,5 @@
 # ByPassBehinder4.1
-魔改冰蝎4.1
+二开魔改冰蝎4.1
 # ByPassBehinder4.1 / 冰蝎WebShell魔改二开
 
 ## Code By:gaoxiaobai
